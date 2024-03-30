@@ -15,4 +15,4 @@ device or play against computer (bot).
 ## Authors
 
 * Władysław Nieć ([@wniec](https://github.com/wniec))
-* Bartosz Hanc ([@BH4N5](https://github.com/Bh4n5))
+* Bartosz Hanc ([@barhanc](https://github.com/barhanc))
